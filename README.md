@@ -2,7 +2,7 @@
 
 # 📊 Influencer Campaign Performance Dashboard
 
-This project is a **Streamlit-based dashboard** for analyzing and monitoring influencer marketing campaigns using **MySQL** as the backend.
+As a part of the process of the internship in HealthKart, this project is a **Streamlit-based dashboard** for analyzing and monitoring influencer marketing campaigns using **MySQL** as the backend.
 
 ## ✅ Features
 
@@ -20,8 +20,6 @@ This project is a **Streamlit-based dashboard** for analyzing and monitoring inf
 - **Data Visualizations** (using Streamlit):
   - Top 5 Influencers by ROAS (bar chart)
   - Monthly Spend vs Revenue (line chart)
-  - Revenue by Category (pie chart)
-  - Platform Reach (area chart)
 - **Detailed Table**: Complete performance metrics by influencer
 - **Textual Insight**: Highlighting the top performer dynamically
 
@@ -51,7 +49,7 @@ This project is a **Streamlit-based dashboard** for analyzing and monitoring inf
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/influencer-dashboard.git
+git clone https://github.com/wafiyasadiq/influencer-dashboard.git
 cd influencer-dashboard
 ```
 
